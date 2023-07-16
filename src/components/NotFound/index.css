@@ -1,0 +1,17 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.not-found-icon {
+  width: 200px;
+}
+
+.not-found-head {
+  color: #6d396b;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
